@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>B.Brands</title>
+    <title>Challenge</title>
 </head>
 <body>
 <div id="wrapper">
@@ -12,6 +12,7 @@
     <ul>
         <li><a href="opdracht2.php">Opdracht 2</a></li>
         <li><a href="opdracht3.php">Opdracht 3</a></li>
+        <li><a href="opdracht4.php">Opdracht 4</a></li>
     </ul>
 
 </div>
